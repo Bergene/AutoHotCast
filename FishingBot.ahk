@@ -72,7 +72,7 @@ return
 {
     Toggle := !Toggle
     If (!Toggle){
-		updateOSD(Toggle Off")
+		updateOSD("Toggle Off")
 	}
 	else{
 		Box_Draw(box_x, box_y, 151, 151)
