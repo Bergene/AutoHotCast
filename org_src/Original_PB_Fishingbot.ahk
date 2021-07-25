@@ -4,6 +4,7 @@ SetWorkingDir %A_ScriptDir%
 #Singleinstance force
 ;#include gdip.ahk
 
+; Source: https://autohotkey.com/board/topic/78565-minecraft-utilities-fishing-bot-chest-xfer-auto-furnace/page-2
 ; Source: https://pastebin.com/zheRTs3E
 
 
